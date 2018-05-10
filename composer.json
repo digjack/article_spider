@@ -1,0 +1,6 @@
+{
+    "require": {
+        "paquettg/php-html-parser": "^1.7",
+        "bupt1987/html-parser": "^3.0"
+    }
+}
